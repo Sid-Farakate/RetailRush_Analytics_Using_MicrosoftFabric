@@ -1,0 +1,18 @@
+[
+  {
+    "source_url": "refs/heads/main/RetailRush_Unstructured_Data/reviews.json",
+    "sink_folder": "RetailRush_Bronze_Reviews",
+    "sink_file": "RetailRush_review.json"
+  },
+  {
+    "source_url": "refs/heads/main/RetailRush_Unstructured_Data/social_media.json",
+    "sink_folder": "RetailRush_Bronze_Social_Media",
+    "sink_file": "RetailRush_social_media.json"
+  },
+  {
+    "source_url": "refs/heads/main/RetailRush_Unstructured_Data/web_logs.json",
+    "sink_folder": "RetailRush_Bronze_Web_Logs",
+    "sink_file": "RetailRush_web_logs.json"
+  }
+]
+
